@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <style name="maleGenderSelectionBackground" parent="AppTheme">
+          <item name="android:background">#ffff1d12</item>
+      </style>
+
+    <style name="maleGenderButtonColor">
+        <item name="android:background">#ff8d00</item>
+    </style>
+
+    <style name="maleGenderSelectionText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaleTheme">
+        <item name="activity_background">@style/maleGenderSelectionBackground</item>
+        <item name="text">@style/maleGenderSelectionText</item>
+        <item name="button_color">@style/maleGenderButtonColor</item>
+    </style>
+    <style name="FemaleTheme">
+      <item name="activity_background">@style/femaleGenderBackground</item>
+      <item name="text">@style/femaleTextColor</item>
+      <item name="button_color">@style/femaleButtonStyle</item>
+    </style>
+</resources>

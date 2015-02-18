@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="activity_background" format="reference"/>
+    <attr name="text" format="reference" />
+    <attr name="button_color" format="reference"/>
+</resources>

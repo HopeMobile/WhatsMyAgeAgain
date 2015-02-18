@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <style name="femaleGenderBackground" parent="AppTheme">
+           <item name="android:background">#ff00f9b3</item>'
+
+      </style>
+    <style name="femaleTextColor">
+        <item name="android:textColor">#ffc706f9</item>
+    </style>
+    <style name="femaleButtonStyle">
+        <item name="android:background">#ffffff</item>
+        <item name="android:textColor">#fc8df5</item>
+    </style>
+</resources>

@@ -1,0 +1,182 @@
+<resources>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="app_name">WhatsMyAgeAgain</string>
+    <string name="opening_title">What\'s my age again?</string>
+    <string name="opening_message">Where to find neat information about Pop-Culture and your Birthday!</string>
+    <string name="name_hint">First name: </string>
+    <string name="age_hint">Age: </string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="start_button">Start</string>
+
+    <string name="key_username">Username</string>
+    <string name="key_age">Age</string>
+    <string name="key_gender">Gender</string>
+    <string name="empty_name_field_message">It appears you didn\'t enter your first name. Please check and try again.</string>
+    <string name="empty_age_field_message">The age field was empty, please try again.</string>
+    <string name="no_name_log_message">Users name field was empty, alert them to change this.</string>
+    <string name="no_age_log_message">Users age field was empty, alert them to change this.</string>
+
+    <string name="age_calculator_activity_title">Here\'s your age in different forms: </string>
+    <string name="age_in_days_label">Days</string>
+    <string name="age_in_weeks_label">Weeks</string>
+    <string name="age_in_dog_years_label">Dog Years</string>
+    <string name="start_third_activity_button">I want to see more</string>
+    <string name="button_back_to_main_activity">Back to Home</string>
+
+    <string-array name="gender_selector_choices">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="female_gender_color">#fff026</string>
+    <string name="male_gender_color">#ffff1d12</string>
+
+    <string name="celebrities_opening_message">The following celebrities are also:  </string>
+    <string name="back_to_second_activity">Back to Age Calculator</string>
+    <string name="back_to_start">Back to Start</string>
+
+    <string-array name="celebrities_born_in_1981_male">
+       <item>Joseph Gordon Levitt</item>
+       <item>Deadmau5</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1981_female">
+        <item>Beyonce Knowles</item>
+        <item>Natalie Portman</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1982_male">
+        <item>Matt Smith</item>
+        <item>Seth Rogen</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1982_female">
+        <item>Billie Piper</item>
+        <item>Kirsten Dunst</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1983_male">
+        <item>Edward Snowden</item>
+        <item>Jesse Eisenberg</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1983_female">
+        <item>Mila Kunis</item>
+        <item>Amber Tamblyn</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1984_male">
+        <item>LeBron James</item>
+        <item>Mark Zuckerberg</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1984_female">
+        <item>Scarlett Johanson</item>
+        <item>Mandy Moore</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1985_male">
+        <item>Michael Phelps</item>
+        <item>Calvin Johnson</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1985_female">
+        <item>Keira Knightely</item>
+        <item>Raven Symone</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1986_male">
+        <item>Aaron Swartz</item>
+        <item>Shaun White</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1986_female">
+        <item>Jenna-Louise Coleman</item>
+        <item>Dianna Agron</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1987_male">
+        <item>Novak Djokovic</item>
+        <item>Sidney Crosby</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1987_female">
+        <item>Karen Gillian</item>
+        <item>Joss Stone</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1988_male">
+        <item>Michael Cera</item>
+        <item>Kevin Durant</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1988_female">
+        <item>Rihanna</item>
+        <item>Emma Stone</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1989_male">
+        <item>Andrew Luck</item>
+        <item>Daniel Radcliffe</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1989_female">
+        <item>Hayden Panettiere</item>
+        <item>Taylor Swift</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1990_male">
+        <item>Liam Hemsworth</item>
+        <item>Michael Sam</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1990_female">
+        <item>Emma Watson</item>
+        <item>Allison Schmitt</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1991_male">
+        <item>Ed Shearan</item>
+        <item>Mantei Te\'o</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1991_female">
+        <item>Ashley Wagner</item>
+        <item>Emma Roberts</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1992_male">
+        <item>Taylor Lautner</item>
+        <item>Josh Hutcherson</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1992_female">
+        <item>Kate Upton</item>
+        <item>Selena Gomez</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1993_male">
+        <item>Zayn Malik</item>
+        <item>Liam Payne</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1993_female">
+        <item>Ariana Grande</item>
+        <item>Keke Palmer</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1994_male">
+        <item>Harry Styles</item>
+        <item>Justin Bieber</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1994_female">
+        <item>Dakota Fanning</item>
+        <item>Saoirse Ronan</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1995_male">
+        <item>Ross Lynch</item>
+        <item>Billy Unger</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1995_female">
+        <item>Gracie Gold</item>
+        <item>Missy Franklin</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1996_male">
+        <item>Austin Mahone</item>
+        <item>Blake Michael</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1996_female">
+        <item>Lorde</item>
+        <item>Zendaya Coleman</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1997_male">
+        <item>Roc Royal</item>
+        <item>Leo Howard</item>
+    </string-array>
+    <string-array name="celebrities_born_in_1997_female">
+        <item>Malala Yousafzai</item>
+        <item>Chloe Grace Moretz</item>
+    </string-array>
+        <string name="title_activity_age_calculator">Age Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+        <string name="title_activity_celebrities_your_age">Celebrities Your Age</string>
+
+</resources>
